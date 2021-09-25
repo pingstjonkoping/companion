@@ -785,3 +785,6 @@ url=https://github.com/bitfocus/companion-module-newbluefx-titler.git
 [submodule "lib/module/audivero-unityintercom-client"]
 	path = lib/module/audivero-unityintercom-client
 	url = https://github.com/bitfocus/companion-module-audivero-unityintercom-client.git
+[submodule "lib/module/bmd-webpresenterhd"]
+	path = lib/module/bmd-webpresenterhd
+	url = https://github.com/pingstjonkoping/companion-module-bmd-webpresenterhd
